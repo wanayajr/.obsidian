@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "baseFontSize": 27,
+  "cssTheme": "Cybertron",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "academic-pdf-export",
+    "tables"
+  ]
+}

@@ -1,0 +1,9 @@
+/* WENCES: Changes the font size of rendered table headers */
+.markdown-rendered th {
+    font-size: large;
+}
+
+/* WENCES: Changes the font size of rendered table rows */
+.markdown-rendered td {
+    font-size: medium;
+}

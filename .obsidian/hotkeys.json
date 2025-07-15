@@ -1,0 +1,165 @@
+{
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "6"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "advanced-cursors:add-next-match-to-selections": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "table-editor-obsidian:table-control-bar": [],
+  "advanced-cursors:add-prev-match-to-selections": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "advanced-cursors:copy-line-down": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "advanced-cursors:copy-line-up": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "advanced-cursors:write-incrementing-i": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "+"
+    }
+  ],
+  "advanced-cursors:move-to-next-match": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "advanced-cursors:move-to-previous-match": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "advanced-cursors:add-cursor-above": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "advanced-cursors:add-cursor-below": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "obsidian-footnotes:insert-autonumbered-footnote": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "6"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "file-explorer:new-file": [],
+  "workspace:new-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "obsidian-linter:lint-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-footnotes:insert-named-footnote": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "6"
+    }
+  ]
+}
