@@ -1,10 +1,12 @@
 {
   "accentColor": "",
-  "baseFontSize": 27,
-  "cssTheme": "Cybertron",
+  "baseFontSize": 16,
+  "cssTheme": "Tokyo Night",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "academic-pdf-export",
-    "tables"
-  ]
+    "tables",
+    "stacked-tab-resize"
+  ],
+  "baseFontSizeAction": false
 }

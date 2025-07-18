@@ -2,7 +2,7 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "assets",
   "pdfExportSettings": {
-    "includeName": false,
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "2",
@@ -10,5 +10,6 @@
   },
   "vimMode": false,
   "useMarkdownLinks": false,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": true
 }

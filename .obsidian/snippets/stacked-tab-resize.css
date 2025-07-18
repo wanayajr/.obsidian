@@ -1,0 +1,4 @@
+/* https: //forum.obsidian.md/t/cannot-resize-tabs/66097/6 */
+body {
+    --tab-stacked-pane-width: 900px; /* default is 700px */
+}

@@ -1,6 +1,6 @@
 {
-  "findText": "\\s\\[Links to an external site.\\]\\(.*?\\)",
-  "replaceText": "",
+  "findText": " {2}\\n([\\w\\`])",
+  "replaceText": " $1",
   "useRegEx": true,
   "selOnly": true,
   "caseInsensitive": true,

@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "table-editor-obsidian",
   "url-into-selection",
   "dataview",
@@ -15,5 +14,9 @@
   "obsidian-advanced-slides",
   "markdown-sync-scroll",
   "obsidian-linter",
-  "image-converter"
+  "image-converter",
+  "univer",
+  "obsidian-style-settings",
+  "obsidian-kanban",
+  "automatic-table-of-contents"
 ]

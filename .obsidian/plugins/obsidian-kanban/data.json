@@ -1,0 +1,13 @@
+{
+  "lane-width": 400,
+  "inline-metadata-position": "metadata-table",
+  "full-list-lane-width": true,
+  "move-tags": true,
+  "tag-colors": [],
+  "show-checkboxes": true,
+  "new-note-folder": "Kanban/Task Notes",
+  "show-relative-date": true,
+  "archive-with-date": true,
+  "new-note-template": "templates/Kanban Note Template.md",
+  "move-dates": true
+}
